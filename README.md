@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Achala200
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning BTECH EEE
+- 📫 How to reach me:achala.457@gmail.com
+
+<!---
+Achala200/Achala200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
