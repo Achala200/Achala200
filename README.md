@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Achala200
+- 👋 Hi, I’m Achala Rao
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning BTECH EEE
 - 📫 How to reach me:achala.457@gmail.com
