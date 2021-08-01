@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achala Rao
 - 👀 I’m interested in Cybersecurity!
-- 🌱 I’m currently learning BTECH EEE
+- 🌱 I’m currently pursuing BTECH EEE
 - 📫 How to reach me:achala.457@gmail.com
 
 <!---
